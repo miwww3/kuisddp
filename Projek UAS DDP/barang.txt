@@ -1,0 +1,32 @@
+[
+  {
+    "hargaBarang": "27000",
+    "namaBarang": "Minyak Goreng",
+    "stokBarang": "15"
+  },
+  {
+    "hargaBarang": "5000",
+    "namaBarang": "Detol Sabun Cari",
+    "stokBarang": "15"
+  },
+  {
+    "hargaBarang": "2500",
+    "namaBarang": "Indomie Goreng",
+    "stokBarang": "50"
+  },
+  {
+    "hargaBarang": "5000",
+    "namaBarang": "Indomie Pedas Korean",
+    "stokBarang": "10"
+  },
+  {
+    "hargaBarang": "12000",
+    "namaBarang": "ayam",
+    "stokBarang": "30"
+  },
+  {
+    "hargaBarang": "2000",
+    "namaBarang": "ayam igun",
+    "stokBarang": "100"
+  }
+]
